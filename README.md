@@ -1,51 +1,56 @@
 <div align="center">
 
-# Jafer Sathik B
+# 👋 Hi, I'm Jafer Sathik B
 
-### Information Technology Student · Software Builder · Technology Explorer
+### B.Tech Information Technology Student · Full-Stack Developer · AI/ML Enthusiast
 
-Building practical software systems across **web development, AI/ML, backend engineering, databases, and application security.**
+Building **practical, secure, and production-oriented software systems** across
+**web development · AI/ML · backend engineering · databases · application security**
 
-<p>
-  <a href="https://github.com/jafersathikbace-cbe">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/jafersathikbace/">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:jafersathikbace@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-</p>
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=jafersathikbace-cbe&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+
+<br><br>
+
+<a href="https://github.com/jafersathikbace-cbe">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/jafersathikbace/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:jafersathikbace@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
 ---
 
-## 👋 About
+## 🚀 About Me
 
-I'm a **B.Tech Information Technology student at PSG College of Technology, Coimbatore**, who enjoys turning ideas and real-world requirements into working software.
+I'm a **B.Tech Information Technology student at PSG College of Technology, Coimbatore**, interested in building software that solves practical problems.
 
-My projects cover different parts of the software lifecycle — from **requirements and system design to implementation, databases, authentication, testing, security, and deployment**.
+My work spans the complete development lifecycle — from **requirements and system design to implementation, databases, APIs, authentication, security, testing, deployment, and iteration**.
 
-I particularly enjoy working on projects where multiple technologies have to come together to solve a practical problem.
+I particularly enjoy projects where multiple technologies have to work together to build a complete system.
 
-### Areas I work with
+### What I Work On
 
-| Area | Focus |
-|---|---|
-| 🌐 **Web Development** | Full-stack applications, interfaces, APIs and business workflows |
-| 🤖 **AI / ML** | Machine learning, RAG, retrieval, explainability and data processing |
-| ⚙️ **Backend Engineering** | Application logic, REST APIs, authentication and server-side workflows |
-| 🗄️ **Databases** | MySQL, MongoDB, Mongoose and data-driven applications |
-| 🔐 **Application Security** | JWT, HTTP-only cookies, RBAC, validation and cryptographic techniques |
-| 🚀 **Deployment** | Docker, Linux, production builds and application deployment |
+|     | Area                     | Focus                                                                  |
+| --- | ------------------------ | ---------------------------------------------------------------------- |
+| 🌐  | **Web Development**      | Full-stack applications, interfaces, APIs and business workflows       |
+| 🤖  | **AI / ML**              | Machine learning, RAG, retrieval, explainability and data processing   |
+| ⚙️  | **Backend Engineering**  | REST APIs, application logic, authentication and server-side workflows |
+| 🗄️ | **Databases**            | MySQL, MongoDB, Mongoose and data-driven applications                  |
+| 🔐  | **Application Security** | JWT, HTTP-only cookies, RBAC, validation and cryptographic techniques  |
+| 🚀  | **Deployment**           | Docker, Linux, production builds and application deployment            |
 
 ---
 
-# 🚀 Selected Work
+# ⭐ Featured Projects
 
-Projects that represent the different areas I've explored through practical software development.
+> A selection of projects covering AI/ML, full-stack development, enterprise workflows, and application security.
 
 ### 🔐 Privacy-Preserving RAG
 
@@ -53,12 +58,11 @@ Projects that represent the different areas I've explored through practical soft
 
 A RAG application built around protected queries, hybrid retrieval, protected embeddings, Merkle integrity verification, and grounded answer generation.
 
-**Technology**
+**Stack**
 
 `TypeScript` `Gemini` `RAG` `FAISS` `Information Retrieval` `Merkle Trees`
 
-**[Repository →](https://github.com/jafersathikbace-cbe/privacy-preserving-rag)**  
-**[Live Demo →](https://privacy-preserving-rag.ai.studio/)**
+**Links:** [Repository](https://github.com/jafersathikbace-cbe/privacy-preserving-rag) · [Live Demo](https://privacy-preserving-rag.ai.studio/)
 
 ---
 
@@ -66,14 +70,13 @@ A RAG application built around protected queries, hybrid retrieval, protected em
 
 **Movie Ticket Booking System**
 
-A movie ticket booking platform designed around temporary seat reservations and server-side availability validation to handle seat conflicts.
+A movie ticket booking platform designed around temporary seat reservations and server-side availability validation to handle concurrent seat conflicts.
 
-**Technology**
+**Stack**
 
 `JavaScript` `REST APIs` `JSON Storage` `Web Development`
 
-**[Repository →](https://github.com/jafersathikbace-cbe/showfair-movieticket-booking-system)**  
-**[Live Demo →](https://showfair-movieticket-booking-system.onrender.com/)**
+**Links:** [Repository](https://github.com/jafersathikbace-cbe/showfair-movieticket-booking-system) · [Live Demo](https://showfair-movieticket-booking-system.onrender.com/)
 
 ---
 
@@ -83,12 +86,11 @@ A movie ticket booking platform designed around temporary seat reservations and 
 
 A machine-learning application for estimating vehicle maintenance risk using multiple predictive models, feature engineering, model comparison, and SHAP-based explanations.
 
-**Technology**
+**Stack**
 
 `Python` `scikit-learn` `XGBoost` `LightGBM` `Random Forest` `SHAP` `Streamlit`
 
-**[Repository →](https://github.com/jafersathikbace-cbe/predictive-vehicle-maintenance)**  
-**[Live Demo →](https://predictive-vehicle-maintenance.streamlit.app/)**
+**Links:** [Repository](https://github.com/jafersathikbace-cbe/predictive-vehicle-maintenance) · [Live Demo](https://predictive-vehicle-maintenance.streamlit.app/)
 
 ---
 
@@ -98,12 +100,11 @@ A machine-learning application for estimating vehicle maintenance risk using mul
 
 A Laravel-based workflow application for managing government plot compliance, policy milestones, evidence submissions, incentive claims, legal actions, audit activity, and reporting.
 
-**Technology**
+**Stack**
 
 `PHP` `Laravel` `MongoDB` `RBAC` `Blade` `Tailwind CSS`
 
-**[Repository →](https://github.com/jafersathikbace-cbe/gov-plot-compliance)**  
-**[Live Demo →](https://gov-plot-compliance.getvoroa.com/login)**
+**Links:** [Repository](https://github.com/jafersathikbace-cbe/gov-plot-compliance) · [Live Demo](https://gov-plot-compliance.getvoroa.com/login)
 
 ---
 
@@ -113,11 +114,11 @@ A Laravel-based workflow application for managing government plot compliance, po
 
 A business management platform covering materials, products, Bill of Materials, stock operations, transactions, users, reporting, notifications, and role-based access control.
 
-**Technology**
+**Stack**
 
 `PHP` `Laravel` `MySQL` `RBAC` `BOM` `PDF Reports`
 
-**[Repository →](https://github.com/jafersathikbace-cbe/ics-inventory)**
+**Links:** [Repository](https://github.com/jafersathikbace-cbe/ics-inventory)
 
 ---
 
@@ -127,18 +128,19 @@ A business management platform covering materials, products, Bill of Materials, 
 
 A full-stack event-management platform supporting registration, authentication, payments, attendance, paper submissions, participant search, email workflows, CSV exports, and protected administration.
 
-**Technology**
+**Stack**
 
 `JavaScript` `Next.js` `MongoDB` `JWT` `Nodemailer` `Tailwind CSS`
 
-**Platform usage:** 242 registrations · 28 paper submissions
+**Platform Usage**
 
-**[Repository →](https://github.com/jafersathikbace-cbe/yutira-2026)**  
-**[Live Platform →](https://yutira.psgtech.ac.in/)**
+`242` registrations · `28` paper submissions
+
+**Links:** [Repository](https://github.com/jafersathikbace-cbe/yutira-2026) · [Live Platform](https://yutira.psgtech.ac.in/)
 
 ---
 
-# 🧩 Technical Toolkit
+# 🧰 Technical Toolkit
 
 <div align="center">
 
@@ -146,9 +148,13 @@ A full-stack event-management platform supporting registration, authentication, 
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css" />
 
+<br><br>
+
 ### Frameworks & Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,vite,nodejs" />
+
+<br><br>
 
 ### Databases & Infrastructure
 
@@ -156,28 +162,17 @@ A full-stack event-management platform supporting registration, authentication, 
 
 </div>
 
-### Core Technologies
+<br>
 
-**Languages**  
-`Python` · `JavaScript` · `TypeScript` · `PHP` · `HTML` · `CSS`
-
-**Frontend & Web**  
-`React` · `Next.js` · `Laravel` · `Tailwind CSS` · `Vite`
-
-**Backend & APIs**  
-`REST APIs` · `Node.js` · `Laravel` · `JWT Authentication`
-
-**Databases & Data**  
-`MySQL` · `MongoDB` · `Mongoose` · `Pandas` · `NumPy`
-
-**AI / Machine Learning**  
-`RAG` · `FAISS` · `scikit-learn` · `XGBoost` · `LightGBM` · `Random Forest` · `SHAP`
-
-**Security**  
-`JWT` · `HTTP-only Cookies` · `bcrypt` · `RBAC` · `Merkle Trees` · `Cryptographic Hashing`
-
-**Tools & Platforms**  
-`Git` · `GitHub` · `Docker` · `Linux` · `Streamlit`
+| Category                  | Technologies                                                                   |
+| ------------------------- | ------------------------------------------------------------------------------ |
+| **Languages**             | Python · JavaScript · TypeScript · PHP · HTML · CSS                            |
+| **Frontend & Web**        | React · Next.js · Laravel · Tailwind CSS · Vite                                |
+| **Backend & APIs**        | Node.js · Laravel · REST APIs · JWT Authentication                             |
+| **Databases & Data**      | MySQL · MongoDB · Mongoose · Pandas · NumPy                                    |
+| **AI / Machine Learning** | RAG · FAISS · scikit-learn · XGBoost · LightGBM · Random Forest · SHAP         |
+| **Security**              | JWT · HTTP-only Cookies · bcrypt · RBAC · Merkle Trees · Cryptographic Hashing |
+| **Tools & Platforms**     | Git · GitHub · Docker · Linux · Streamlit                                      |
 
 ---
 
@@ -187,60 +182,124 @@ A full-stack event-management platform supporting registration, authentication, 
 
 Led development of a manufacturing inventory and order management platform.
 
-### Responsibilities
+### Key Contributions
 
-- Designed and implemented inventory workflows
-- Developed materials and product management
-- Implemented Bill of Materials (BOM)
-- Built stock and inventory transaction workflows
-- Implemented user and ownership management
-- Added role-based access control
-- Developed PDF reporting
-- Integrated notifications
-- Worked on testing and deployment
+* Designed and implemented inventory workflows
+* Developed materials and product management
+* Implemented **Bill of Materials (BOM)**
+* Built stock and inventory transaction workflows
+* Implemented user and ownership management
+* Added **role-based access control**
+* Developed PDF reporting
+* Integrated notifications
+* Worked on testing and deployment
 
 ---
 
 ## Freelance Full-Stack Developer — YUTIRA 2026
 
-Built and maintained an event-management platform covering the participant and administrative sides of the symposium workflow.
+Built and maintained an event-management platform covering both participant-facing and administrative workflows.
 
-### Platform capabilities
+### Platform Capabilities
 
-- Participant registration
-- Authentication and email verification
-- YUTIRA ID generation
-- Payment tracking
-- Attendance management
-- Paper submission
-- Paper review workflows
-- Participant search
-- CSV exports
-- Administrative management
+* Participant registration
+* Authentication and email verification
+* YUTIRA ID generation
+* Payment tracking
+* Attendance management
+* Paper submission
+* Paper review workflows
+* Participant search
+* CSV exports
+* Administrative management
 
-**Platform usage:** 242 registrations and 28 paper submissions during the symposium.
+**Platform usage:** 242 registrations · 28 paper submissions
 
 ---
 
 # 🧠 Engineering Approach
 
-I enjoy working through a project as a complete system rather than focusing only on individual features.
+I approach projects as **complete systems**, rather than isolated features.
 
 ```text
-Understand
-    ↓
-Requirements
-    ↓
-System Design
-    ↓
-Implementation
-    ↓
-Database & APIs
-    ↓
-Security & Validation
-    ↓
-Testing
-    ↓
-Deployment
-    ↓
-Iteration
+┌─────────────────────┐
+│     Understand      │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│    Requirements     │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│    System Design    │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│   Implementation    │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│  Database & APIs    │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ Security & Validation│
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│      Testing        │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│     Deployment      │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│      Iteration      │
+└─────────────────────┘
+```
+
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=jafersathikbace-cbe&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jafersathikbace-cbe&layout=compact&hide_border=true" height="170" />
+
+</div>
+
+---
+
+# 📫 Connect With Me
+
+<div align="center">
+
+**Interested in software development, AI/ML, backend systems, or building practical applications?**
+
+<br>
+
+<a href="https://github.com/jafersathikbace-cbe">
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+</a>
+<a href="https://www.linkedin.com/in/jafersathikbace/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<br><br>
+
+📧 **[jafersathikbace@gmail.com](mailto:jafersathikbace@gmail.com)**
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Build · Learn · Secure · Deploy
+
+*Always exploring better ways to turn ideas into working software.*
+
+</div>
