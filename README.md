@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jafer Sathik B
 
-### B.Tech Information Technology Student · Technology Enthusiast
+### B.Tech Information Technology Student · Developer · Technology Enthusiast
 
 Building practical software systems and exploring **software development, web applications, AI/ML, backend systems, databases, security, and emerging technologies.**
 
@@ -28,7 +28,7 @@ I'm a **B.Tech Information Technology student at PSG College of Technology, Coim
 
 My projects and client work have given me hands-on experience across **application development, frontend and backend systems, databases, APIs, authentication, security, machine learning, testing, and deployment**.
 
-I enjoy exploring different areas of computing rather than limiting myself to a single technology. I like learning new tools, understanding complete systems, and adapting to the requirements of each project.
+I enjoy exploring different areas of computing rather than limiting myself to a single technology. I like learning new tools, understanding complete systems, and adapting to different project requirements.
 
 I'm open to opportunities across **IT, software development, web development, backend systems, AI/ML, application development, database-driven systems, and other technology-focused roles**.
 
