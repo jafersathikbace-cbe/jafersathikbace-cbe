@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Jafer Sathik B
 
-### B.Tech Information Technology Student · Software Developer · Technology Enthusiast
+### B.Tech Information Technology Student · Technology Enthusiast
 
-Building practical software systems and exploring **web development, software engineering, AI/ML, backend systems, databases, security, and emerging technologies.**
+Building practical software systems and exploring **software development, web applications, AI/ML, backend systems, databases, security, and emerging technologies.**
 
 <br>
 
@@ -28,27 +28,27 @@ Building practical software systems and exploring **web development, software en
 
 ## 👨‍💻 About Me
 
-I'm a **B.Tech Information Technology student at PSG College of Technology, Coimbatore**, interested in building useful software and learning how different technologies come together to solve real-world problems.
+I'm a **B.Tech Information Technology student at PSG College of Technology, Coimbatore**, interested in building useful software and understanding how different technologies work together to solve real-world problems.
 
-My projects have given me hands-on experience across different parts of software development — including **frontend development, backend engineering, databases, APIs, authentication, application security, machine learning, system workflows, testing, and deployment**.
+My projects and client work have given me hands-on experience across **application development, frontend and backend systems, databases, APIs, authentication, security, machine learning, testing, and deployment**.
 
-Rather than limiting myself to a single technology or role, I enjoy exploring different areas of computing and adapting to the requirements of a project.
+I enjoy exploring different areas of computing rather than limiting myself to a single technology. I like learning new tools, understanding complete systems, and adapting to the requirements of each project.
 
-I'm open to opportunities across **software development, web development, backend engineering, AI/ML, application development, database-driven systems, and other technology-focused roles**.
+I'm open to opportunities across **IT, software development, web development, backend systems, AI/ML, application development, database-driven systems, and other technology-focused roles**.
 
 ---
 
 ## 🛠️ What I Work With
 
-| Area                                 | Technologies & Experience                                       |
-| ------------------------------------ | --------------------------------------------------------------- |
-| 🌐 **Web & Application Development** | React · Next.js · Laravel · Tailwind CSS · Vite                 |
-| ⚙️ **Backend & APIs**                | Node.js · Laravel · REST APIs · Authentication                  |
-| 🤖 **AI / Machine Learning**         | Python · RAG · FAISS · scikit-learn · XGBoost · LightGBM · SHAP |
-| 🗄️ **Databases & Data**             | MySQL · MongoDB · Mongoose · Pandas · NumPy                     |
-| 🔐 **Security**                      | JWT · HTTP-only Cookies · bcrypt · RBAC · Cryptographic Hashing |
-| 🚀 **Deployment & Infrastructure**   | Docker · Linux · Git · GitHub · Streamlit                       |
-| 💻 **Programming**                   | Python · JavaScript · TypeScript · PHP · HTML · CSS             |
+| Area                                 | Technologies                                                                   |
+| ------------------------------------ | ------------------------------------------------------------------------------ |
+| 🌐 **Web & Application Development** | React · Next.js · Laravel · Tailwind CSS · Vite                                |
+| ⚙️ **Backend & APIs**                | Node.js · Laravel · REST APIs · Authentication                                 |
+| 🤖 **AI / Machine Learning**         | Python · RAG · FAISS · scikit-learn · XGBoost · LightGBM · SHAP                |
+| 🗄️ **Databases & Data**             | MySQL · MongoDB · Mongoose · Pandas · NumPy                                    |
+| 🔐 **Security**                      | JWT · HTTP-only Cookies · bcrypt · RBAC · Merkle Trees · Cryptographic Hashing |
+| 🚀 **Tools & Infrastructure**        | Git · GitHub · Docker · Linux · Streamlit · cPanel                             |
+| 💻 **Programming**                   | Python · JavaScript · TypeScript · PHP · HTML · CSS                            |
 
 ---
 
@@ -60,7 +60,7 @@ A selection of projects I've built while exploring different areas of software a
 
 **Privacy-focused document question-answering system**
 
-A RAG application built around protected queries, hybrid retrieval, protected embeddings, Merkle integrity verification, and grounded answer generation.
+A RAG application built around protected queries, hybrid retrieval, protected embeddings, Merkle integrity verification, and grounded answer generation with fail-closed verification.
 
 **Technologies**
 
@@ -74,7 +74,7 @@ A RAG application built around protected queries, hybrid retrieval, protected em
 
 **Movie Ticket Booking System**
 
-A movie ticket booking platform with temporary seat reservations and server-side availability validation designed to handle seat conflicts.
+A movie ticket booking platform designed to handle temporary seat reservations, booking expiry, and server-side availability validation.
 
 **Technologies**
 
@@ -88,7 +88,7 @@ A movie ticket booking platform with temporary seat reservations and server-side
 
 **Machine Learning & Explainability**
 
-A machine-learning application for estimating vehicle maintenance risk using multiple predictive models, feature engineering, model comparison, and SHAP-based explanations.
+A machine-learning application for estimating vehicle maintenance risk using multiple predictive models, preprocessing, model comparison, and SHAP-based explanations.
 
 **Technologies**
 
@@ -102,7 +102,7 @@ A machine-learning application for estimating vehicle maintenance risk using mul
 
 **Compliance & Workflow Management System**
 
-A Laravel-based workflow application for managing government plot compliance, policy milestones, evidence submissions, incentive claims, legal actions, audit activity, and reporting.
+A Laravel-based application for managing plot compliance milestones, incentive claims, submissions, audit activity, notifications, reporting, and role-based access.
 
 **Technologies**
 
@@ -122,7 +122,7 @@ A business management platform covering materials, products, Bill of Materials, 
 
 `PHP` `Laravel` `MySQL` `RBAC` `BOM` `PDF Reports`
 
-**[Repository →](https://github.com/jafersathikbace-cbe/ics-inventory)**
+**[Repository →](https://github.com/jafersathikbace-cbe/ics-inventory)** · **[Live Demo →](https://ams.itcoresolutions.in/)**
 
 ---
 
@@ -138,7 +138,7 @@ A full-stack event-management platform supporting registration, authentication, 
 
 **Platform Usage**
 
-`242` registrations · `28` paper submissions
+`248` registrations · `28` paper submissions
 
 **[Repository →](https://github.com/jafersathikbace-cbe/yutira-2026)** · **[Live Platform →](https://yutira.psgtech.ac.in/)**
 
@@ -148,64 +148,68 @@ A full-stack event-management platform supporting registration, authentication, 
 
 ## Project Lead — Custom Inventory Management System
 
-Led the development of a manufacturing inventory and order management platform.
+Led the development and deployment of a manufacturing inventory and order management platform.
 
-### Responsibilities
+**Key work**
 
 * Designed and implemented inventory workflows
 * Developed materials and product management
 * Implemented **Bill of Materials (BOM)**
 * Built stock and inventory transaction workflows
-* Implemented user and ownership management
-* Added **role-based access control**
+* Implemented user management and **role-based access control**
 * Developed PDF reporting
-* Integrated notifications
-* Worked on testing and deployment
+* Integrated notifications and Telegram reporting
+* Worked on testing and Linux/cPanel deployment
+
+**[Repository →](https://github.com/jafersathikbace-cbe/ics-inventory)** · **[Live System →](https://ams.itcoresolutions.in/)**
 
 ---
 
 ## Freelance Full-Stack Developer — YUTIRA 2026
 
-Built and maintained an event-management platform covering participant and administrative workflows.
+Built and supported an event-management platform covering participant and administrative workflows.
 
-### Platform Capabilities
+**Platform capabilities**
 
 * Participant registration
 * Authentication and email verification
 * YUTIRA ID generation
 * Payment tracking
 * Attendance management
-* Paper submission
-* Paper review workflows
+* Paper submission and review workflows
 * Participant search
 * CSV exports
 * Administrative management
 
-**Platform usage:** 242 registrations · 28 paper submissions
+**Platform usage:** `248 registrations` · `28 paper submissions`
+
+**[Repository →](https://github.com/jafersathikbace-cbe/yutira-2026)** · **[Live Platform →](https://yutira.psgtech.ac.in/)**
+
+---
+
+# 🏆 Achievements
+
+* **Smart India Hackathon 2024** — Idea selected at college level
+* **Academic Achievement** — Diploma department topper with **95%**
+* **Project Leadership** — Project Lead for a client system
+* **Academic Leadership** — Panel Head for 7th-semester project reviews
+* **IEEE Association** — Media Team Member
 
 ---
 
 # 🧰 Technical Toolkit
 
-<div align="center">
-
 ### Languages
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,php,html,css" />
-
-<br><br>
 
 ### Frameworks & Development
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,vite,nodejs" />
 
-<br><br>
-
 ### Databases & Infrastructure
 
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,linux,git,github" />
-
-</div>
 
 ---
 
@@ -214,7 +218,7 @@ Built and maintained an event-management platform covering participant and admin
 **Languages**
 `Python` · `JavaScript` · `TypeScript` · `PHP` · `HTML` · `CSS`
 
-**Web & Frontend**
+**Web & Application Development**
 `React` · `Next.js` · `Laravel` · `Tailwind CSS` · `Vite`
 
 **Backend & APIs**
@@ -230,7 +234,7 @@ Built and maintained an event-management platform covering participant and admin
 `JWT` · `HTTP-only Cookies` · `bcrypt` · `RBAC` · `Merkle Trees` · `Cryptographic Hashing`
 
 **Tools & Platforms**
-`Git` · `GitHub` · `Docker` · `Linux` · `Streamlit`
+`Git` · `GitHub` · `Docker` · `Linux` · `Streamlit` · `cPanel`
 
 ---
 
@@ -258,13 +262,13 @@ Deploy
 Improve
 ```
 
-This approach helps me learn beyond individual technologies and understand how different components work together in a real application.
+This helps me understand not only individual technologies, but also how different components work together in a real application.
 
 ---
 
 # 🌱 Currently Exploring
 
-I'm continuously expanding my knowledge across different areas of technology, including:
+I'm continuously expanding my knowledge across:
 
 * Software engineering
 * Full-stack application development
